@@ -25,7 +25,7 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 /**
- * Ulozeni cidel do MariaDB
+ * Ulozeni cidel do MariaDB na Synology
  * @author Milos
  */
 public class CidlaSaveDB {
